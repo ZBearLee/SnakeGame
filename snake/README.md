@@ -1,6 +1,6 @@
 # H5小游戏贪吃蛇
 
-## MVC设计模式
+ MVC设计模式
 
 基于贪吃蛇的经典，笔者在实现它时也使用一种经典的设计模型：MVC（即：Model - View - Control）。游戏的各种状态与数据结构由 Model 来管理；View 用于显示 Model 的变化；用户与游戏的交互由 Control 完成（Control 提供各种游戏API接口）。
 
